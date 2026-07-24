@@ -14,3 +14,9 @@
 ## Open questions
 - Which sellers/regions/product categories drive lateness?
 - What is a late order worth in lost repeat purchases?
+
+Lateness is geographic, not category-driven — Northeast states run up to 24% late vs ~6% in the São Paulo region; RJ is the biggest concentrated opportunity
+
+Recommendation. Late deliveries are the single biggest driver of 1-star reviews (46% vs 6.6%), and they are geographic, not product-related — concentrated on the long-haul lanes from the São Paulo hub to the Northeast (Alagoas 24%, Maranhão 20%, Ceará 15%) and to Rio de Janeiro (13.5%). I'd prioritize two moves: (1) Target Rio de Janeiro first — it combines a high late rate with the largest order volume (12,350), so carrier/SLA improvements there recover the most reviews per dollar; (2) Recalibrate delivery-date promises for the Northeast — if we can't yet ship faster, setting more realistic estimated dates would cut the "arrived late" gap that triggers 1-star reviews, since lateness is measured against our own promise.
+
+Quantified impact: Bringing RJ's late rate to the national average would recover an estimated ~250–360 one-star reviews — from a single lane, before touching the Northeast.
